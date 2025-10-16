@@ -2,9 +2,6 @@
 
 A full-stack, secure Todo list application built with a .NET Core API and a React frontend. This project demonstrates best practices in web security, API design, and modern frontend development.
 
-**Live Demo:** [Link to your live demo here]
-
-![Secure Todo App Screenshot](https://raw.githubusercontent.com/atiq296/Secure-Todo/main/Screenshot%20(20).png)
 
 ## Overview
 
